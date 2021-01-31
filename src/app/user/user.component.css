@@ -1,0 +1,13 @@
+.content{padding: 10px;
+    border-left: 5px solid #039108;
+    background: rgb(248 248 248 / 75%);
+    font-size: 13px;margin-bottom: 8px;
+}
+.content2{border-left: 5px solid #fb9458;}
+.content3{border-left: 5px solid #8f4b1e;}
+.content table:first-child{margin-bottom: 20px;
+}
+.date{font-size: 11px;color: #000;}
+.blue{color:#0f75b8;font-weight: 600;}
+.blue_value td{color:#0f75b8;font-weight: 600;}
+.title p{color:#fff}
